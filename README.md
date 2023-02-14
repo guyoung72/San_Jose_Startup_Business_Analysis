@@ -1,3 +1,3 @@
 # Bay_Care_Business_Analysis
 
-Still on it
+Finding potential business areas for a trashbin cleaning service
