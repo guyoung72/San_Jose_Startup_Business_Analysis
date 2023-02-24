@@ -1,4 +1,4 @@
-# 🗺️Stealth Startup Project
+# 🗺️Unlaunched Startup Project
 
 Our team is planning to launch a local startup in San Jose by May 2023. I won't tell what exactly the startup is about, but I can say it is a consumer service startup.
 
