@@ -1,6 +1,6 @@
 # 🗺️Stealth Startup Project
 
-One of my family members is planning to launch a local startup in San Jose by May 2023. I won't tell what exactly the startup is about, but I can say it is a consumer service startup.
+Our team is planning to launch a local startup in San Jose by May 2023. I won't tell what exactly the startup is about, but I can say it is a consumer service startup.
 
 I am doing the analytics work for them so they can reach their ambitious goals.
 
@@ -10,9 +10,9 @@ I am doing the analytics work for them so they can reach their ambitious goals.
 📈 Communicate with CEO to plan marketing and service operation based on analysis results<br>
 
 I will be using Python Jupyter Notebook for this repo. All address found in the 'data' folder do not represent actual customers' locations. They were selected purely randomly.
-<br><iframe src="/San Jose Potential Customers.html"></iframe>
-
-
+<br><br>
+Download the interactive map here: https://drive.google.com/file/d/1s_XeUPESZlX9uedfrWVnx5nNeoPoVvnR/view?usp=sharing
+<br><br>
 <img width="1157" alt="image" src="https://user-images.githubusercontent.com/79275984/221008897-c2112051-246c-4b23-b463-c48267e23314.png">
 
 Above is a image of "Potential_Customers_Map" in my repo. Any information uploaded in this repo will not include actual customer information for privacy purposes (all geographic information uploaded here are not actual customers' addresses).
